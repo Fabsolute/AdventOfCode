@@ -1,7 +1,7 @@
 # Day 11 - Cosmic Expansion
 
 ```elixir
-Mix.install([:kino, :eastar])
+Mix.install([:kino])
 
 default = "...#......
 .......#..
